@@ -27,8 +27,6 @@ See something wrong or want to add something? There are several ways you can do 
 - For feedback without direct edits, you can open a GitHub Issue (Issues tab → New Issue) and describe your suggested change(s).
 - If you plan to make many/larger edits and are Git savvy, consider the 'standard' Fork + Pull Request workflow. 
 
----
-
 ## How to suggest edits in your browser: 
 
 This method lets you propose changes to any file without needing special permissions. Your suggestion will be sent for review before anything changes on the live site.
@@ -57,8 +55,6 @@ This method lets you propose changes to any file without needing special permiss
    Click **"Propose changes"**, then on the next screen click **"Create pull request"**. Add any additional notes if helpful, then click **"Create pull request"** one more time.
 
 That's it! The repository owner will receive a notification, review your suggestion, and either merge it (accept), ask follow-up questions, or let you know if they'd suggest a different approach. You'll get an email notification when there's a response.
-
----
 
 ## Tips for Good Edits
 
