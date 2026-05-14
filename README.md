@@ -20,29 +20,52 @@ This site material itself falls in the Public Domain - i.e., licensed under a [
 * Sam Santomartino
 
 # Become a Contributor
-## GitHub
 
-The current site--called the "repository"--is the center for editing and branching. Changes to the main branch, or the "master" branch, will be pushed to the published site, e.g., https://bobsthinktank.github.io/PSYC341OER/.
+See something wrong or want to add something? There are several ways you can do so: 
 
-You do not need a GitHub account to view the published site, however you do need an account to make edits or contributions.
+- Edit directly in your web browser. Best for smaller edits. See below for step-by-step instructions. 
+- For feedback without direct edits, you can open a GitHub Issue (Issues tab → New Issue) and describe your suggested change(s).
+- If you plan to make many/larger edits and are Git savvy, consider the 'standard' Fork + Pull Request workflow. 
 
-## Forking
+---
 
-When editing, you should “fork” to a new, separate, branch. Forking is essentially making a copy, and a local repository of the project is created. Editing your separate branch will not affect the master branch. You will be able to access your site through the URL provided under the "Settings" tab:
+## How to suggest edits in your browser: 
 
-<figure>
-    <img src="https://UMDOER.github.io/PSYC341OER/images/Screen Shot 2021-01-02 at 11.54.38 AM.png" style="width:20%">
-</figure>
+This method lets you propose changes to any file without needing special permissions. Your suggestion will be sent for review before anything changes on the live site.
 
-For more information on how to fork, click [here.](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/working-with-forks)
+### What you'll need
+- A free [GitHub account](https://github.com/signup)
 
-Make any changes in your new, local repository. When you wish to add your changes to the “master branch,” (i.e. the live, published version of the text) you can use a “pull request” to send the edits from your user-owned fork to the original repository, for approval. 
+### Step-by-step
 
-## Pull Requests
+1. **Go to the repository**
+   Visit: [https://github.com/bobsthinktank/PSYC341OER](https://github.com/bobsthinktank/PSYC341OER)
 
-To propose a change without editing directly, you can issue a pull request. This request will allow you to add comments and discuss the changes with collaborators before the edits are published. Anyone can send a pull request, and this request will go to those with write permissions for approval. This way, only approved content will appear on the site.
+2. **Find the file you want to edit**
+   Browse the folders to find the relevant chapter or page. Most content files end in `.md` (Markdown).
 
-For more information on how to create a pull request, click [here.](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+3. **Open the file and click the edit icon**
+   Click the file name to open it, then click the **pencil icon** (✏️) near the top-right corner of the file content. If you see a tooltip that says *"Fork this repository and edit the file"*, that's exactly what you want — click it.
+
+4. **Make your edits**
+   You'll see the file's text, which you can edit directly in the browser. The content uses **Markdown** formatting — see the section on [making changes](#making-changes) below.
+
+6. **Describe your changes**
+   Scroll to the bottom of the page. Under **"Propose changes"**, enter a short summary of what you changed and why (e.g., *"Fixed typo in Chapter intro"* or *"Clarified definition of working memory"*). The more detail the better!
+
+7. **Submit your proposal**
+   Click **"Propose changes"**, then on the next screen click **"Create pull request"**. Add any additional notes if helpful, then click **"Create pull request"** one more time.
+
+That's it! The repository owner will receive a notification, review your suggestion, and either merge it (accept), ask follow-up questions, or let you know if they'd suggest a different approach. You'll get an email notification when there's a response.
+
+---
+
+## Tips for Good Edits
+
+- **One topic per suggestion** — if you have changes for two different chapters, submit them separately. This makes review much easier.
+- **Explain your reasoning** — especially for content changes, a brief note about *why* helps the repository owner evaluate the suggestion.
+- **Small and focused is better** — a tightly scoped suggestion is more likely to be accepted quickly than a large overhaul.
+- **Ask first when unsure** — for major structural changes, consider opening a GitHub **Issue** (via the Issues tab) to discuss the idea before writing it all out.
 
 
 # Navigating the Repository
