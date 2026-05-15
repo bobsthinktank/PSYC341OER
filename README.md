@@ -8,7 +8,7 @@
 
 # Introduction
 
-The primary goal of project aims to provide an open-source, ever-expanding body of information for [PSYC341: Introduction to Memory and Cognition](https://app.testudo.umd.edu/soc/202101/PSYC/PSYC341) at the [University of Maryland, College Park](https://umd.edu/). A secondary goal is to provide these materials for other instructors to easily use/adapt for their own courses. These materials were initially compiled with support from a [2020 Faculty OER Mini-Grant](http://www.oer-maryland.org/support-sustain/most-oer-grant-program/) from the [Maryland Open Source Textbook Initiative](https://www.oer-maryland.org/). 
+The primary goal of project is to provide an open-source, ever-expanding body of information for undergraduate classes in Cognitive Psychology. These materials were initially compiled for [PSYC341: Introduction to Memory and Cognition](https://app.testudo.umd.edu/soc/202101/PSYC/PSYC341) at the [University of Maryland, College Park](https://umd.edu/), with support from a [2020 Faculty OER Mini-Grant](http://www.oer-maryland.org/support-sustain/most-oer-grant-program/) from the [Maryland Open Source Textbook Initiative](https://www.oer-maryland.org/). 
 
 This site is hosted via Github, allowing many users to contribute to the main site or to make their own variations. Ideally/eventually, this site will provide a mix of written and multimedia information to encourage learning through several mediums. 
 
@@ -18,6 +18,7 @@ This site material itself falls in the Public Domain - i.e., licensed under a [
 * [Bob Slevc](https://github.com/bobsthinktank)
 * Camille Burns
 * Sam Santomartino
+* Ren Salig
 
 # Become a Contributor
 
