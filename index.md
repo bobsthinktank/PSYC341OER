@@ -21,6 +21,8 @@ The goal of these materials (and the corresponding course at UMD) is to promote 
 
 If you are a UMD student in PSYC 341: these are both your course readings and part of your course assignments (that is, you will be asked to contribute to improving these materials). Note that the rest of the course will be administered via the [university's ELMS / CANVAS site](https://elms.umd.edu/), where you can find the syllabus, assignments, etc. 
 
+If you are a TCNJ student in PSY  214, these are your course readings.
+
 If you are an instructor of a class related to cognitive psychology, these materials are free for you to use / adapt as you like -- please see the [GitHub README](https://github.com/bobsthinktank/PSYC341OER/blob/master/README.md) for some basic info on how to adapt these materials for your own purposes. If you are neither a student nor a teacher, well, I'm not sure why you're here, but I hope you find this useful! 
 
 ### Notes
