@@ -13,15 +13,15 @@ How are we so good at recognizing faces and objects? How do we selectively atten
 
 These are all questions asked in the field of *cognitive psychology*, which focuses on the internal mental processes involved in representing concepts, remembering, reasoning, language processing, decision making, and problem solving. More specific questions include: Is it safe to talk on a hands-free cell phone while driving? Is eyewitness testimony reliable? How can you better remember information? What are the pitfalls that lead to bad decisions, and how can they be avoided?
 
-This site is a set of always-in-development [open educational resources (OER)](https://en.wikipedia.org/wiki/Open_educational_resources) related to the field of Cognitive Psychology. The content has mostly been adapted from various other sources (with support from the [Maryland Open Source Textbook Initiative](https://www.oer-maryland.org/) - thanks!) in order to serve as the textbook for *Introduction to Memory and Cognition* [PSYC 341](https://academiccatalog.umd.edu/search/?P=PSYC341) at the [University of Maryland, College Park](https://umd.edu/). 
+This site is a set of always-in-development [open educational resources (OER)](https://en.wikipedia.org/wiki/Open_educational_resources) related to the field of Cognitive Psychology. The content was initally adapted from various other sources with support from the [Maryland Open Source Textbook Initiative](https://www.oer-maryland.org/) in order to serve as the textbook for *Introduction to Memory and Cognition* [PSYC 341](https://academiccatalog.umd.edu/search/?P=PSYC341) at the [University of Maryland, College Park](https://umd.edu/). 
 
 As OER they are completely free for students (and anyone else) to use and/or revise/redistribute.
 
-The goal of these materials (and the corresponding course at UMD) is to promote a good understanding of current theories and debates that motivate research in cognitive psychology, understand which research methods are appropriate to address different questions in the field, and have an improved ability to understand and discuss this knowledge through class participation and assignments. We hope to do this in a way that allows you to see the relevance of cognitive psychological research and theories to your own lives.
+The goal of these materials is to promote a good understanding of current theories and debates that motivate research in cognitive psychology, understand which research methods are appropriate to address different questions in the field, and have an improved ability to understand and discuss this knowledge through class participation and assignments. We hope to do this in a way that allows you to see the relevance of cognitive psychological research and theories to your own lives.
 
 If you are a UMD student in PSYC 341: these are both your course readings and part of your course assignments (that is, you will be asked to contribute to improving these materials). Note that the rest of the course will be administered via the [university's ELMS / CANVAS site](https://elms.umd.edu/), where you can find the syllabus, assignments, etc. 
 
-If you are a TCNJ student in PSY  214, these are your course readings.
+If you are a TCNJ student in PSY 214, these are your course readings.
 
 If you are an instructor of a class related to cognitive psychology, these materials are free for you to use / adapt as you like -- please see the [GitHub README](https://github.com/bobsthinktank/PSYC341OER/blob/master/README.md) for some basic info on how to adapt these materials for your own purposes. If you are neither a student nor a teacher, well, I'm not sure why you're here, but I hope you find this useful! 
 
