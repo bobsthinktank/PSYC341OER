@@ -232,7 +232,7 @@ Let’s ask whether the results are consistent with the propositional assumption
 
 1.  The island contains objects
 2.  The rock is on the north end of the island
-3.  The grass is on the north-west side of the island.
+3.  The grass is on the north-west side of the island
 4.  The grass is south-west of the rock
 5.  The tree is south of the grass, in the southwest of the island
 6.  The well is due west of the tree
