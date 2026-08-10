@@ -37,7 +37,7 @@ A problem-solving strategy is a plan of action used to find a solution. Differen
 
 Another type of strategy is an *algorithm*. An algorithm is a problem-solving formula that provides you with step-by-step instructions used to achieve a desired outcome (Sternberg & Ben-Zeev, 2001). You can think of an algorithm as a recipe with highly detailed instructions that produce the same result every time they are performed. Algorithms are used frequently in our everyday lives, especially in computer science. When you run a search on the Internet, search engines like Google use algorithms to decide which entries will appear first in your list of results. Facebook also uses algorithms to decide which posts to display on your newsfeed. Can you identify other situations in which algorithms are used?
 
-A *heuristic* is yet another type of problem solving strategy. While an algorithm must be followed exactly to produce a correct result, a heuristic is a general problem-solving framework (Tversky & Kahneman, 1974). You can think of these as mental shortcuts (or "rules of thumb") that are used to solve problems. Such rules cam save time and energy when making a decision, but are not always the best method for making a rational decision. Different types of heuristics are used in different types of situations, but the impulse to use a heuristic occurs when one of five conditions is met (Pratkanis, 1989):
+A *heuristic* is yet another type of problem solving strategy. While an algorithm must be followed exactly to produce a correct result, a heuristic is a general problem-solving framework (Tversky & Kahneman, 1974). You can think of these as mental shortcuts (or "rules of thumb") that are used to solve problems. Such rules can save time and energy when making a decision, but are not always the best method for making a rational decision. Different types of heuristics are used in different types of situations, but the impulse to use a heuristic occurs when one of five conditions is met (Pratkanis, 1989):
 
 *   When one is faced with too much information
 *   When the time to make a decision is limited
@@ -53,7 +53,7 @@ There are at least two ways to break problems into smaller parts. One is to take
 
 | **River Crossing Problem** |
 | :----------- | 
-| Three missionaries and three cannibals are on one side of a river and need to cross to the other side. The only means of crossing is a boat, and the boat can only hold two people at a time. Your goal is to devise a set of moves that will transport all six of the people across the river, being in mind the following constraint: The number of cannibals can never exceed the number of missionaries in any location. Remember that someone will have to also row that boat back across each time. <br><br> You can try an interactive version of this problem [here](https://www.transum.org/software/River_Crossing/Level3.asp). |
+| Three missionaries and three cannibals are on one side of a river and need to cross to the other side. The only means of crossing is a boat, and the boat can only hold two people at a time. Your goal is to devise a set of moves that will transport all six of the people across the river, keeping in mind the following constraint: The number of cannibals can never exceed the number of missionaries in any location. Remember that someone will have to also row that boat back across each time. <br><br> You can try an interactive version of this problem [here](https://www.transum.org/software/River_Crossing/Level3.asp). |
 
 | **Tower of Hanoi Problem** |
 | :----------- | 
