@@ -14,11 +14,11 @@ This site is hosted via Github, allowing many users to contribute to the main si
 
 This site material itself falls in the Public Domain - i.e., licensed under a [Creative Commons Zero v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/deed.en), however note that content in most sections is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US).
 
-# Contributors
+# Current and Past Contributors
 * [Bob Slevc](https://github.com/bobsthinktank)
 * Camille Burns
 * Sam Santomartino
-* Ren Salig
+* [Ren Salig](https://github.com/lsalig)
 
 # Become a Contributor
 
